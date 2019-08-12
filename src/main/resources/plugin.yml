@@ -1,0 +1,3 @@
+name: tab
+version: "1.0"
+main: net.silexpvp.tablist.TablistExample
